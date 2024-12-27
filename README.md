@@ -1,7 +1,7 @@
 <h1 align="center">Discord MultiTool 🚀</h1>
 
 <p align="center">
-  Your all-in-one command-line companion for Discord automation and management.
+  Your all-in-one command-line tool for Discord automation and management.
 </p>
 
 <p align="center">
@@ -11,13 +11,6 @@
   <a href="https://github.com/Schuh1337/Discord-MultiTool/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Schuh1337/Discord-MultiTool" alt="License"></a>
 </p>
 
-<br>
-
-<hr>
-
-## ✨ Key Features
-
-*   **Powerful Automation:** Automate a wide range of Discord actions.
-*   **Command-Line Interface:**  Interact with Discord through a convenient and efficient CLI.
-*   **Easy to Use:**  Designed for both beginners and advanced users.
-
+https://github.com/Schuh1337/Discord-MultiTool
+https://github.com/Schuh1337/Discord-MultiTool
+https://github.com/Schuh1337/Discord-MultiTool
