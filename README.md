@@ -14,3 +14,7 @@
 <p align="center">
   <a href="https://github.com/Schuh1337/Discord-MultiTool">https://github.com/Schuh1337/Discord-MultiTool</a>
 </p>
+
+<p align="center">
+  ⭐ Star it! ⭐
+</p>
