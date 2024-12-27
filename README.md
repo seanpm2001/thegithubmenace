@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  ⭐ Star it! ⭐
+  ⭐ Star it ⭐
 </p>
