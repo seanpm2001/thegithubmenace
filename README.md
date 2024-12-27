@@ -11,5 +11,6 @@
   <a href="https://github.com/Schuh1337/Discord-MultiTool/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Schuh1337/Discord-MultiTool" alt="License"></a>
 </p>
 
-[GitHub Repository](https://github.com/Schuh1337/Discord-MultiTool)
-A
+https://github.com/Schuh1337/Discord-MultiTool
+https://github.com/Schuh1337/Discord-MultiTool
+https://github.com/Schuh1337/Discord-MultiTool
